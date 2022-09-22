@@ -4,7 +4,6 @@ This project is just me trying to mimic Minecraft in React.
 How i did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
-Demo: https://minecraft-freecodecamp.vercel.app/
 
 ## How to play?
 
@@ -14,7 +13,6 @@ You navigate the world with the mouse and WASD.
 You can click to add blocks and Alt+Click to remove blocks.
 You world is stored in your browsers local storage.
 
-![Preview](preview.png 'Preview')
 
 ## Want to extend, develop modify?
 
