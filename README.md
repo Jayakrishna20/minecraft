@@ -5,6 +5,7 @@ How i did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
 Link:- https://jk-minecraft-clone.netlify.app/
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fc6ae34-077d-494a-b7c4-765f3ef4fa2e/deploy-status)](https://app.netlify.com/sites/jk-minecraft-clone/deploys)
 
 ## How to play?
