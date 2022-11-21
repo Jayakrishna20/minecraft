@@ -6,7 +6,7 @@ How i did it can be seen in this Youtube video:
 
 Link:- https://jk-minecraft-clone.netlify.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9fc6ae34-077d-494a-b7c4-765f3ef4fa2e/deploy-status)](https://app.netlify.com/sites/jk-minecraft-clone/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3f351b6-d560-4d73-9067-8cd3d06662d1/deploy-status)](https://app.netlify.com/sites/jk-minecraft-clone/deploys)
 
 ## How to play?
 
