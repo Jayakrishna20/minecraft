@@ -4,7 +4,7 @@ This project is just me trying to mimic Minecraft in React.
 How i did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
-Link:- https://jk-minecraft-clone.netlify.app/
+### [Live Site](https://jk-minecraft-clone.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a3f351b6-d560-4d73-9067-8cd3d06662d1/deploy-status)](https://app.netlify.com/sites/jk-minecraft-clone/deploys)
 
